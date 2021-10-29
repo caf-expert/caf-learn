@@ -60,8 +60,6 @@ Please also visit the [Azure Well-Architected Review](https://docs.microsoft.com
 
 Azure landing zones are the output of a multi-subscription Azure environment that accounts for scale, security governance, networking, and identity. Azure landing zones enable application migration, modernization, and innovation at enterprise-scale in Azure. These zones consider all platform resources that are required to support the customer's application portfolio and don't differentiate between infrastructure as a service or platform as a service.
 
-{% include caf.html %}
-
 ### Landing Zones Page in Azure Docs
 
 [Landing Zones in the context of CAF](https://docs.microsoft.com//azure/cloud-adoption-framework/ready/landing-zone/)

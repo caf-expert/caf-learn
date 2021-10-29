@@ -10,6 +10,8 @@ This site is a collection of learning material availible to get deeper into the 
 
 The Microsoft Cloud Adoption Framework for Azure (CAF) is a model with the intention of helping customers understand the WHAT, WHY and provide unified guidance on the HOW from Microsoft to help them accelerate the cloud journey to the cloud.
 
+{% include caf.html %}
+
 ### CAF - Landing Page in Azure Docs
 
 A lot of content around CAF ist provided in our Microsoft Docs. You find the CAF Docs under [https://aka.ms/CAF](https://aka.ms/CAF).

@@ -8,9 +8,9 @@ This site is a collection of learning material availible to get deeper into the 
 
 ## Cloud Adoption Framework for Azure (CAF)
 
-The Microsoft Cloud Adoption Framework for Azure (CAF) is a model with the intention of helping customers understand the WHAT, WHY and provide unified guidance on the HOW from Microsoft to help them accelerate the cloud journey to the cloud.
-
 {% include caf.html %}
+
+The Microsoft Cloud Adoption Framework for Azure (CAF) is a model with the intention of helping customers understand the WHAT, WHY and provide unified guidance on the HOW from Microsoft to help them accelerate the cloud journey to the cloud.
 
 ### CAF - Landing Page in Azure Docs
 
@@ -38,6 +38,8 @@ A lot of content around CAF ist provided in our Microsoft Docs. You find the CAF
 
 ## Well Architected Framework (WAF)
 
+{% include waf.html %}
+
 The Azure Well-Architected Framework is a set of guiding tenets that can be used to improve the quality of a workload.
 
 ### WAF - Landing Page in Azure Docs
@@ -57,6 +59,8 @@ Please also visit the [Azure Well-Architected Review](https://docs.microsoft.com
 [Channel 9 Videos around WAF](https://channel9.msdn.com/Tags/well-architected-series)
 
 ## Landing Zone
+
+{% include alz.html %}
 
 Azure landing zones are the output of a multi-subscription Azure environment that accounts for scale, security governance, networking, and identity. Azure landing zones enable application migration, modernization, and innovation at enterprise-scale in Azure. These zones consider all platform resources that are required to support the customer's application portfolio and don't differentiate between infrastructure as a service or platform as a service.
 

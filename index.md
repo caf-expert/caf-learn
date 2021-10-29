@@ -16,6 +16,10 @@ A lot of content around CAF ist provides in our Microsoft Docs. You find the CAF
 
 ### Learn path in MS Learn
 
+[Good place to start on MS Learn](https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-adoption-framework-for-azure/)
+
+[Overall Context of CAF - Business Value of Microsoft Azure Learning Path](https://docs.microsoft.com/en-us/learn/paths/learn-business-value-of-azure/)
+
 ### Video content
 
 ## Well Architected Framework (WAF)

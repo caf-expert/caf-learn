@@ -12,7 +12,7 @@ This site is a collection of learning material availible to get deeper into the 
 
 ### Landing Page in Azure Docs
 
-A lot of content around CAF ist provides in our Microsoft Docs. You find the CAF Docs under https://aka.ms/CAF.
+A lot of content around CAF ist provides in our Microsoft Docs. You find the CAF Docs under [https://aka.ms/CAF](https://aka.ms/CAF).
 
 ### Learn path in MS Learn
 
